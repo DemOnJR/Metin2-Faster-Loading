@@ -16,5 +16,6 @@ ORIGINAL CREATOR
 **Created by FilipDev**   
 ```https://github.com/filipwiesek/Metin2-Faster-Loading```   
    
-OTHER CREDITS
+OTHER CREDITS  
+``r00t1ng``
 ``Reached``
