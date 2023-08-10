@@ -12,10 +12,10 @@ With CPP PSM:
 Without:  
 ```https://metin2.download/picture/GtP39g2zsUI7Pb8nIWc3Z45RdQ06sU2T/.gif```   
    
-ORIGINAL CREATOR   
-**Created by FilipDev**   
+**ORIGINAL CREATOR**   
+```FilipDev```   
 ```https://github.com/filipwiesek/Metin2-Faster-Loading```   
    
-OTHER CREDITS  
+**OTHER CREDITS**   
 ``r00t1ng``
 ``Reached``
