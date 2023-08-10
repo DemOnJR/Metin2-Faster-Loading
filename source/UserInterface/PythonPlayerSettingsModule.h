@@ -15,6 +15,9 @@ public:
 		RACE_ASSASSIN_M = 5,
 		RACE_SURA_W = 6,
 		RACE_SHAMAN_M = 7,
+#ifdef ENABLE_WOLFMAN_CHARACTER
+		RACE_WOLFMAN_M = 8,
+#endif
 		COMBO_TYPE_1 = 0,
 		COMBO_TYPE_2 = 1,
 		COMBO_TYPE_3 = 2,
@@ -24,7 +27,7 @@ public:
 		COMBO_INDEX_4 = 3,
 		COMBO_INDEX_5 = 4,
 		COMBO_INDEX_6 = 5,
-		FILE_MAX_NUM = 70,
+		FILE_MAX_NUM = 666, // Keep an eye on this
 		BONE_MAX_NUM = 24,
 	};
 
@@ -69,11 +72,17 @@ public:
 
 	const static bool RegisterEmotionAnis(const char *stFolder);
 	const static bool LoadGeneralMotion(const char *stFolder);
+#ifdef ENABLE_WOLFMAN_CHARACTER
+	const static bool LoadNewGeneralMotion(const char *stFolder);
+#endif
 
 	static bool LoadGameWarrior(DWORD dwRace, const char *stFolder);
 	static bool LoadGameAssassin(DWORD dwRace, const char *stFolder);
 	static bool LoadGameSura(DWORD dwRace, const char *stFolder);
 	static bool LoadGameShaman(DWORD dwRace, const char *stFolder);
+#ifdef ENABLE_WOLFMAN_CHARACTER
+	static bool LoadGameWolfman(DWORD dwRace, const char *stFolder);
+#endif
 
 	const static bool LoadGameSound();
 	const static bool LoadGameSkill();

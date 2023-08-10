@@ -1,14 +1,20 @@
-# Metin2-Faster-Loading
-**Created by FilipDev**
+# Tested on MartySama Srcs (C++20)   
 
-[![](https://img.youtube.com/vi/zw2S4Pfuou8/sddefault.jpg)](https://youtu.be/zw2S4Pfuou8)
-
-Time of loading each fragment of the game before and after
-
-![hp](https://i.gyazo.com/99176acdda98cf64da111c0a719ded91.png)
-
-Daemon C++20 Tests   
+To update your Srcs like me do the following tutorials   
+```https://metin2.dev/topic/27990-tut-c17-client-side/```   
+```https://metin2.dev/topic/27996-cclient-source-c20/```   
+   
+And the updates from Mali but not required   
+```https://metin2.dev/topic/22115-compile-client-with-visual-studio-2022-src/```   
+   
 With CPP PSM:  
 ```https://metin2.download/picture/2kpT7vV9072WzSdLufDFuN1nz1J65feF/.gif```   
 Without:  
-```https://metin2.download/picture/GtP39g2zsUI7Pb8nIWc3Z45RdQ06sU2T/.gif```
+```https://metin2.download/picture/GtP39g2zsUI7Pb8nIWc3Z45RdQ06sU2T/.gif```   
+   
+ORIGINAL CREATOR   
+**Created by FilipDev**   
+```https://github.com/filipwiesek/Metin2-Faster-Loading```   
+   
+OTHER CREDITS
+``Reached``
